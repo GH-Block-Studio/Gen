@@ -26,3 +26,6 @@ GSCG01
 2. 下载快！最高 2048 进程，秒杀 PCL 2！
 3. 自动配置材质（实现官方宣传片的效果）！
 4. 联机自动端口映射（这下 PCL 2 党应该没人叫了吧）！
+5. 不错的UI界面，让你收获~~一大堆女生的青睐~~众人的艳羡。
+![](https://cdn.luogu.com.cn/upload/image_hosting/wqxzpwlg.png)
+![](https://cdn.luogu.com.cn/upload/image_hosting/3ersp7ii.png)
